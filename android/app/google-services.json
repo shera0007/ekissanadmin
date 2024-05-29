@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "890138244201",
+    "project_id": "ekissan-f8cbc",
+    "storage_bucket": "ekissan-f8cbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890138244201:android:638a6868a4460d8127def8",
+        "android_client_info": {
+          "package_name": "com.example.ekissan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890138244201-ne7eno4pjc79sgdam0pfc8lifs9l0t04.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ekissan",
+            "certificate_hash": "54fdf130a6d0aae7c827eca4e7cb98d32bb956bb"
+          }
+        },
+        {
+          "client_id": "890138244201-b072c6avle09nrgs97o76p8s4a1q27a6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACbMoilGGWZnww5C1gw3Epab1Ls94gsMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890138244201-b072c6avle09nrgs97o76p8s4a1q27a6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "890138244201-msra31oc5gn57l7ejn4fnn68mo7r9u0s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ekissan"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890138244201:android:fce6d7144596260327def8",
+        "android_client_info": {
+          "package_name": "com.example.ekissanadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890138244201-b072c6avle09nrgs97o76p8s4a1q27a6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACbMoilGGWZnww5C1gw3Epab1Ls94gsMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890138244201-b072c6avle09nrgs97o76p8s4a1q27a6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "890138244201-msra31oc5gn57l7ejn4fnn68mo7r9u0s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ekissan"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
